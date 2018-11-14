@@ -1,0 +1,1 @@
+add_executable(learn_2 main.c)
